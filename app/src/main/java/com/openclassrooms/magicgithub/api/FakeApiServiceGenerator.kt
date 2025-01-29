@@ -23,7 +23,7 @@ object FakeApiServiceGenerator {
         User("014", "Laura", "https://api.dicebear.com/7.x/adventurer/png?seed=Laura"),
         User("015", "Gertrude", "https://api.dicebear.com/7.x/adventurer/png?seed=Gertrude"),
         User("016", "Chloé", "https://api.dicebear.com/7.x/adventurer/png?seed=Chloe"),
-        User("017", "April", "https://api.dicebear.com/7.x/adventurer/png?seed=April2"),
+        User("017", "April", "https://api.dicebear.com/7.x/adventurer/png?seed=April"),
         User("018", "Marie", "https://api.dicebear.com/7.x/adventurer/png?seed=Marie"),
         User("019", "Henri", "https://api.dicebear.com/7.x/adventurer/png?seed=Henri"),
         User("020", "Rémi", "https://api.dicebear.com/7.x/adventurer/png?seed=Remi")
